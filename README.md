@@ -1,0 +1,2 @@
+# algostruk
+Pengumpulan tugas AlgoStruk
